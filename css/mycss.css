@@ -1,0 +1,8 @@
+.intro {
+    display: table;
+    height: auto;
+    padding: 100px 0;
+    text-align: center;
+    color: #fff;
+    background: url(../img/russellcover.jpg) bottom center no-repeat #000;
+}
