@@ -6,4 +6,10 @@
     color: #fff;
     background: url(../img/russellcover.jpg) bottom center no-repeat #000;
 }
-
+a:focus, a:hover {
+    text-decoration: none;
+    color: #c3c3c3;
+}
+a {
+    color: #999;
+}
